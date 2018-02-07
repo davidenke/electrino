@@ -11,15 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pojala/electrino.git"
+    "url": "git+https://github.com/davidenke/electrino.git"
   },
   "keywords": [],
   "contributors": [
     "Amila Welihinda <amilajack@gmail.com> (http://amilajack.com/)"
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/pojala/electrino/issues"
-  },
-  "homepage": "https://github.com/pojala/electrino#readme"
+  "license": "MIT"
 }
